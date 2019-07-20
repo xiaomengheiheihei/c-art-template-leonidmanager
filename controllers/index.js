@@ -1,0 +1,1 @@
+await res.renderAsync('index');

@@ -1,0 +1,12 @@
+
+[
+    {
+      "route": "/",
+      "controller_name": "index",
+      "filters": [],
+      "method": 1,
+      "timeout": 3000,
+      "description": "index",
+      "leonid_config": []
+    }
+]
